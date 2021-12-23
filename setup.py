@@ -12,7 +12,6 @@ setup(
     keywords=['TWITTER', 'TWITTER SCRAPE', 'SCRAPE TWEETS'],
     install_requires=[
         'beautifulsoup4',
-        'openpyxl',
         'requests'
     ],
     classifiers=[
